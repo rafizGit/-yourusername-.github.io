@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="URL-to-your-header-image" alt="Header Image" />
 
   # Welcome to RafizGit's Data Science Portfolio 👋
   <img src="https://img.shields.io/badge/Data%20Science-Portfolio-blue" alt="Data Science & Analytics Badge" />
