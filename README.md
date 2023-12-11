@@ -16,7 +16,8 @@
 <p>At Scotiabank, I support small business advisors and specialists with data analytics projects and management information system (MIS) reporting. My role involves:</p>
 
 <ul>
-  <li>Developing advanced analytics models using machine learning and statistical learning.</li>
+  <li>Executed a comprehensive SQL Data Analysis Challenge, demonstrating advanced proficiency in SQL queries for data manipulation and business insights extraction.</li>  
+  <li>Developing advanced analytics models using machine learning and statistical learning.</li> 
   <li>Crafting presentation decks and providing support for the internal sales team.</li>
   <li>Collaborating with stakeholders to write success stories for our Advisor recognition platform.</li>
 </ul>
