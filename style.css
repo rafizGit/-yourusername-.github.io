@@ -4,7 +4,7 @@ body {
     line-height: 1.6;
     color: #333333;
     background-color: #f4f4f4;
-    margin: 15pt;
+    margin: 15pt; /* As specified, more than 10pt */
 }
 
 h1 {
@@ -48,7 +48,7 @@ a:hover, a:active {
 
 .div-table-cell {
     display: table-cell;
-    padding: 15px;
+    padding: 15pt; /* Using pt for padding as well */
     border: 1px solid #ddd;
 }
 
